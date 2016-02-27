@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lector tullave </string>
+    <string name="app_short_name">tullave </string>
+
+    <string name="unable_to_read">Error. Asegúrese que es una tarjeta tullave y manténgala cerca hasta que vea el saldo </string>
+    <string name="banner_ad_unit_id">bannerId</string>
+</resources>
