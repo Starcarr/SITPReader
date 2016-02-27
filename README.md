@@ -5,4 +5,4 @@ This is an opensource Android App made to read Bogota's SITP card balance. This 
 [Play Store](https://play.google.com/store/apps/details?id=com.macastiblancot.lectorsitp)
 
 #License
-This App is copyrighted under GPLv3
+SITPReader is licensed under GNU GPLv3 - see the LICENSE file.
